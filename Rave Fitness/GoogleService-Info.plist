@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>268265268406-lnn53nm3p4eg6t7fvel23f0d62q1furj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.268265268406-lnn53nm3p4eg6t7fvel23f0d62q1furj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDN2Pjp6YZTfGaoJvDq0j-DHg-JtZFmWhs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>268265268406</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>SeniorProj.Group5.Rave-Fitness</string>
+	<key>PROJECT_ID</key>
+	<string>rave-fitness-e364d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rave-fitness-e364d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:268265268406:ios:6622b6139837c2df9af217</string>
+</dict>
+</plist>
